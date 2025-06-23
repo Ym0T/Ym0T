@@ -18,6 +18,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
+    permissions:
+      contents: write
+    
     steps:
       # Generate the snake files in the output branch
       - name: Generate github-contribution-grid-snake.svg
