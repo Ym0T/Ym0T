@@ -147,8 +147,7 @@ let tom = Developer {
 
 ### 💬 Let's Connect & Build Something Amazing!
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tom@example.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourdiscord)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ymot@tuta.com)
 
 *Open to collaboration on Rust projects and API architecture discussions* 🤝
 
